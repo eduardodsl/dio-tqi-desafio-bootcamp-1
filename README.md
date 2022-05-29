@@ -1,2 +1,6 @@
 # dio-tqi-desafio-bootcamp-1
-Basic github repository for the DIO/TQI bootcamp challenge (purposedly written in english)
+Basic github repository for the DIO/TQI bootcamp challenge.
+
+## Readme in other languages:
+* Português
+* 中文
